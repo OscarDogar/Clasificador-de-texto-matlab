@@ -1,4 +1,4 @@
-clear
+clear 
 clc
 %% Datos De Entrada
 load('datos.mat');
